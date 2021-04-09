@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: jl-common
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: LY
+Implementation-Vendor-Id: com.jl.vip
+Build-Jdk: 1.8.0_71
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/jl/jl-common
+Created-By: Maven Integration for Eclipse
+
